@@ -70,9 +70,11 @@
 }
 
 .Higher-Rating {
+  font-weight: normal;
   color: green;
 }
 
 .Lower-Rating {
+  font-weight: normal;
   color: red;
 }
