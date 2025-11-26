@@ -1,0 +1,12 @@
+1. Install the new dependencies in frontend and backend - DONE
+2. Create the routes in app.jsx - DONE
+3. The routes are: - DONE
+    "/" which will show a login page
+    "/contacts" which will show the main contacts app
+    "/register" which will show a registration page
+    "/not-authorized" which will show a 403 error if a user is not authorized and wants to enter
+    "*" if the route does not exist
+4. User model to be store on a new collection/table on our contacts DB --DONE
+5. On the backend: we need to handle all the login/registration
+6. On frontend: we need to create a login page, a registration page, a not-authorized page, and not-found page
+7. We need to edit contactsapp to show the username up top of the page
